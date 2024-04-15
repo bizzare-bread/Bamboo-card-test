@@ -38,6 +38,7 @@ To run the application:
 - **Message Queue Integration**: Implement a message queue system to handle requests asynchronously and improve scalability.
 - **Logging and Monitoring**: Enhance logging and monitoring capabilities to track the performance and health of the application.
 - **Caching**: Implement caching mechanisms to cache frequently requested data and reduce the load on external APIs.
+- **Performance**: The best option for performance optimization is to check if the Hacker News API returns stories sorted by score. If it does, we can simply retrieve the top-{n} story IDs from the /beststories endpoint. This approach will significantly reduce response time.
 
 ### Rate Limit Handling
 
