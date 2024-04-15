@@ -39,3 +39,9 @@ To run the application:
 - **Logging and Monitoring**: Enhance logging and monitoring capabilities to track the performance and health of the application.
 - **Caching**: Implement caching mechanisms to cache frequently requested data and reduce the load on external APIs.
 
+### Rate Limit Handling
+
+If the Hacker News API enables rate limiting in the future, additional logic can be added to handle it gracefully. This may include:
+- Checking the `X-RateLimit-Limit` or `X-RateLimit-Remaining` HTTP headers to determine the current rate limit status.
+- Implementing try-catch blocks to handle HTTP status code 429 (Too Many Requests) and processing the exception appropriately, such as retrying the request after a certain interval or informing the client about the rate limit exceeded status.
+
