@@ -45,3 +45,18 @@ If the Hacker News API enables rate limiting in the future, additional logic can
 - Checking the `X-RateLimit-Limit` or `X-RateLimit-Remaining` HTTP headers to determine the current rate limit status.
 - Implementing try-catch blocks to handle HTTP status code 429 (Too Many Requests) and processing the exception appropriately, such as retrying the request after a certain interval or informing the client about the rate limit exceeded status.
 
+### Load Balancing
+
+Here you can see a result of a load balancing test. 
+
+Parameters:
+- 10 Virtual Users per second
+- 10 second test duration
+
+Results:
+- 100% success (0.00% of requests failed)
+- 15.7 seconds total time spent
+- other analysis data you can see on the screenshot below
+
+<img width="819" alt="image" src="https://github.com/bizzare-bread/Bamboo-card-test/assets/26627866/b688ea40-91a4-4372-b5a7-802b3c57f9e1">
+
