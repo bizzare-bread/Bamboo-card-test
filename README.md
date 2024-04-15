@@ -30,7 +30,7 @@ To run the application:
      dotnet run --project BambooCard
    ```
 
-4. Access the API endpoint to retrieve the best stories. You can use this endpoint by Swagger `https://localhost:5001/swagger` or directly by enpoint url `https://localhost:5001/beststories`.
+4. Access the API endpoint to retrieve the best stories. You can use this endpoint by Swagger `https://localhost:5001/swagger` or directly by enpoint url `https://localhost:5001/beststories`, where port for localhost will be assigned by your system (check your terminal logs from the previous step).
 
 ## Future Enhancements
 
