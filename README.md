@@ -56,7 +56,7 @@ Parameters:
 Results:
 - 100% success (0.00% of requests failed)
 - 15.7 seconds total time spent
-- other analysis data you can see on the screenshot below
+- other analysis data you can see at the screenshot below
 
 <img width="819" alt="image" src="https://github.com/bizzare-bread/Bamboo-card-test/assets/26627866/b688ea40-91a4-4372-b5a7-802b3c57f9e1">
 
