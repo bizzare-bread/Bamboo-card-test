@@ -1,0 +1,12 @@
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/bin/Debug/net8.0/HackerNews.deps.json
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/bin/Debug/net8.0/HackerNews.dll
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/bin/Debug/net8.0/HackerNews.pdb
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/HackerNews.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/HackerNews.AssemblyInfoInputs.cache
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/HackerNews.AssemblyInfo.cs
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/HackerNews.csproj.CoreCompileInputs.cache
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/HackerNews.sourcelink.json
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/HackerNews.dll
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/refint/HackerNews.dll
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/HackerNews.pdb
+/Users/admin/MyProjects/Bamboo-card-test/BambooCard/HackerNews/obj/Debug/net8.0/ref/HackerNews.dll

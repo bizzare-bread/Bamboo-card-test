@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BambooCard", "BambooCard\BambooCard.csproj", "{131F2990-A9D6-494B-85AB-01CB9665F8BE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HackerNews", "HackerNews\HackerNews.csproj", "{00F233FE-E9D1-481A-81B7-A41166EC61BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{131F2990-A9D6-494B-85AB-01CB9665F8BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{131F2990-A9D6-494B-85AB-01CB9665F8BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{131F2990-A9D6-494B-85AB-01CB9665F8BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{131F2990-A9D6-494B-85AB-01CB9665F8BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00F233FE-E9D1-481A-81B7-A41166EC61BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00F233FE-E9D1-481A-81B7-A41166EC61BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00F233FE-E9D1-481A-81B7-A41166EC61BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00F233FE-E9D1-481A-81B7-A41166EC61BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
